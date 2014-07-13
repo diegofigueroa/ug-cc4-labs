@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Laboratorio #6"
-subtitle:  "JSON parser"
-date:   2013-08-27 21:28:27
+title: "Laboratorio #6"
+subtitle: "JSON parser"
+date: 2014-09-02
 categories: labs
 published: true
-due_date: 2013-08-12
+due_date: 2014-09-08
 excerpt: Parser para JSON.
 tags: antlr parser java json
 ---
@@ -59,6 +59,6 @@ A continuacion damos un ejemplo del parseo de un archivo JSON válido:
 Entrega
 -------     
 
-La entrega se realizará a través del `GES` antes de las 23:55:00 del día Lunes 2 de Septiembre de 2013, debe enviar un archivo llamado `carnet.zip` conteniendo el directorio lab06 que debe llevar todos sus archivos.
+La entrega se realizará a través del `GES` antes de las **23:55:00** del día **Lunes 8 de Septiembre de 2014**, debe enviar un archivo llamado `carnet.zip` conteniendo el directorio lab06 que debe llevar **todos** sus archivos.
 
 ---
