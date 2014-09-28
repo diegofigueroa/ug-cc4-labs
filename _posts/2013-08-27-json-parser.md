@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Laboratorio #6"
+title: "Laboratorio #06"
 subtitle: "JSON parser"
 date: 2014-09-02
 categories: labs
