@@ -22,13 +22,15 @@ Los objetivos de la práctica son:
 - Que practiquen un poco y se diviertan con Java, JSON y ANTLR ;)
 
 ---
+
 Descripción
 -----------
      
-Usted debe hacer un análisis sintáctico sobre un archivo de input (por la linea de comandos) con extencion .json y desplegar en pantalla l que su programa reconoció.  
-Utilice ANTLR para definir su parser (puede utilizar su lexer del laboratorio anterior). Incluya además un `Makefile` y siga la estructura de laboratorios que hemos estado utilizando (su paquete para este ejercicio seria `laboratorios.lab06[.paquetes_adicionales]`).  
+Usted debe hacer un análisis sintáctico sobre un archivo de input (por la linea de comandos) con extencion `.json` y desplegar en pantalla lo que su programa reconoció.  
+Utilice ANTLR para definir su parser (puede utilizar su lexer del laboratorio anterior).  
+Incluya además un `Makefile` y siga la estructura de laboratorios que hemos estado utilizando (su paquete para este ejercicio seria `laboratorios.lab06[.paquetes_adicionales]`).  
 
-A continuacion damos un ejemplo del parseo de un archivo JSON válido:
+A continuacion, un ejemplo del parseo de un archivo JSON válido:
 
 {%highlight json %}
 {
@@ -56,8 +58,9 @@ A continuacion damos un ejemplo del parseo de un archivo JSON válido:
 
 
 ---
+
 Entrega
--------     
+--- 
 
 La entrega se realizará a través del `GES` antes de las **23:55:00** del día **Lunes 8 de Septiembre de 2014**, debe enviar un archivo llamado `carnet.zip` conteniendo el directorio lab06 que debe llevar **todos** sus archivos.
 
